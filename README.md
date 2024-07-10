@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using git clone.
 
    ```bash
-   git clone https://github.com/yourusername/Password-Generator
+   git clone https://github.com/atharva026/Password-Generator
 
 2. **Navigate to the Directory**: Change into the project directory.
 
