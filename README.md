@@ -56,15 +56,6 @@ To set up the project locally, follow these steps:
 
 5. **Access the Application**: Open your browser and go to `http://localhost:3000`.
 
-## Troubleshooting
-
-If you encounter issues during setup or while using the application, consider the following steps:
-
-- Ensure all dependencies are installed correctly.
-- Verify the database setup is complete.
-- Check the console for any error messages and address them accordingly.
-- Restart the application after making any changes.
-
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact me at [atharvam99@gmail.com](mailto:atharvam99@gmail.com).
